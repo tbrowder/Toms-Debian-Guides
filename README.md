@@ -1,13 +1,3 @@
-Toms Debian Guides
-==================
-
-This repository provide a collection of PDF guides, along with bash scripts and other aids, to various aspects of using Debian Linux.
-
-AUTHOR
-======
-
-Tom Browder <tbrowder@acm.org>
-
 COPYRIGHT AND LICENSE
 =====================
 
