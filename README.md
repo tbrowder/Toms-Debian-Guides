@@ -1,19 +1,7 @@
-NAME
-====
+Toms Debian Guides
+==================
 
-**Toms-Debian-Guides** - A collection of PDF guides to various aspects of using Debian Linux.
-
-SYNOPSIS
-========
-
-```raku
-use Toms-Debian-Guides;
-```
-
-DESCRIPTION
-===========
-
-**Toms-Debian-Guides** is ...
+This repository provide a collection of PDF guides, along with bash scripts and other aids, to various aspects of using Debian Linux.
 
 AUTHOR
 ======
