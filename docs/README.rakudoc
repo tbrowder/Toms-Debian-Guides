@@ -1,0 +1,30 @@
+=begin pod
+
+=head1 NAME
+
+B<Toms-Debian-Guides> - A collection of PDF guides to various aspects of using Debian Linux.
+
+
+=head1 SYNOPSIS
+
+=begin code :lang<raku>
+
+use Toms-Debian-Guides;
+
+=end code
+
+=head1 DESCRIPTION
+
+B<Toms-Debian-Guides> is ...
+
+=head1 AUTHOR
+
+Tom Browder <tbrowder@acm.org>
+
+=head1 COPYRIGHT AND LICENSE
+
+© 2025 Tom Browder
+
+This library is free software; you may redistribute it or modify it under the Artistic License 2.0.
+
+=end pod

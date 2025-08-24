@@ -1,0 +1,25 @@
+{
+  "auth": "zef:tbrowder",
+  "authors": [
+    "Tom Browder"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "A collection of PDF guides to various aspects of using Debian Linux.\n",
+  "license": "Artistic-2.0",
+  "name": "Toms-Debian-Guides",
+  "perl": "6.d",
+  "provides": {
+    "Toms-Debian-Guides": "lib/Toms-Debian-Guides.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "",
+  "tags": [
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}
